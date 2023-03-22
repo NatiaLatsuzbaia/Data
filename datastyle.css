@@ -1,0 +1,68 @@
+*{
+  box-sizing: border-box;
+}
+
+.a2{
+    margin-left: 160px;
+}
+.a1 {
+width: 1160px;
+display: flex;
+justify-content: space-between;
+text-align: left; 
+}
+
+.ID{
+width: 200px;
+height: 30px;
+border-radius: 5px;
+
+}
+.Title{
+width: 600px;
+height: 30px;
+border-radius: 5px;
+
+}
+.Created-at{
+width: 200px;
+height: 30px;
+border-radius: 5px;
+
+}
+.submit{
+width: 115px;
+height: 30px;
+border-radius: 5px;
+background-color: #FFD43A;
+
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.Edit{
+width: 115px;
+height:30px;
+background-color: #FFD43A;
+border-radius: 5px;
+}
+
+.Delete{
+width: 115px;
+height:30px;
+background-color: #E84949;
+border-radius: 5px;
+}
+
+td{
+    height:50px;
+    text-align: center;
+}
+
+thead{
+    background-color: #F9F9F9;
+}
+
